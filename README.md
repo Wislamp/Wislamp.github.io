@@ -1,1 +1,80 @@
 # Wislamp.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wisdom Dzeagu's Portfolio</title>
+    <!-- You can link to an external CSS file or add styles directly in the head -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Wisdom Dzeagu</h1>
+        <p>Computer Science Student</p>
+    </header>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <p>Virtual Sales - MTN, Accra, Ghana (Jan 2020 - Jan 2022)</p>
+        <ul>
+            <li>Demonstrated effective communication and collaboration skills.</li>
+            <li>Contributed to team success by meeting sales targets and ensuring client satisfaction.</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>Kibo School of Technology - Bachelor of Science in Computer Science (Expected July 2026), New York, NY</p>
+        <p>Akome Senior High School - WAEC, Volta Region, Ghana</p>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Flask</li>
+            <li>Excel</li>
+        </ul>
+        <h2>Tools</h2>
+        <ul>
+            <li>VSCode</li>
+            <li>Figma</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact me at: wisdom.amartey@kibo.school | +233554964496 | Accra, Ghana</p>
+        <p>LinkedIn: [http://www.linkedin.com/in/wisdom-dzeagu-625130240] | Github: [https://github.com/Wislamp] | Portfolio: [https://wislamp.github.io/]</p>
+    </footer>
+
+</body>
+</html>
