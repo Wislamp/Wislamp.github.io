@@ -1,5 +1,4 @@
-# Wislamp.github.io
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,7 +72,6 @@
 
     <footer>
         <p>Contact me at: wisdom.amartey@kibo.school | +233554964496 | Accra, Ghana</p>
-        <p>LinkedIn: [http://www.linkedin.com/in/wisdom-dzeagu-625130240] | Github: [https://github.com/Wislamp] | Portfolio: [https://wislamp.github.io/]</p>
     </footer>
 
 </body>
