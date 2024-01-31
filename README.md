@@ -73,7 +73,19 @@
     </section>
 
     <footer>
-        <p>Contact me at: wisdom.amartey@kibo.school | +233554964496 | Accra, Ghana</p>
+            <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me through the following channels:</p>
+        
+        <ul>
+            <li>Email: wisdom.amartey@kibo.school</li>
+            <li>Phone: +233554964496</li>
+            <li>Location: Accra, Ghana</li>
+            <li>GitHub: <a href="https://github.com/Wislamp" target="_blank">GitHub Profile</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/wisdom-dzeagu-6b3ba62b1/" target="_blank">LinkedIn Profile</a></li>
+        </ul>
+    </section>
+
     </footer>
 
 </body>
