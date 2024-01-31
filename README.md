@@ -37,7 +37,7 @@
 
     <header>
         <h1>Wisdom Dzeagu</h1>
-        <p>Computer Science Student</p>
+        <p>I am an aspiring software developer. I seek opportunities to apply my skills, particularly in Python, and develop expertise as a technical data analyst.</p>
     </header>
 
     <section id="experience">
