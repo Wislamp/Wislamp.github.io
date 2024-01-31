@@ -71,7 +71,16 @@
             <li>Figma</li>
         </ul>
     </section>
+    
+    <section id="Extracarricular activity"> 
+        <h3>Soccer player</h3>
+        <p> 							                                    Feb 2019  - Present
+									                                        Accra, Ghana
+            Played a key role in the Golden Strikers soccer team, contributing to the recent league victory as well as emerging the top scorer in my community tournament
+            Demonstrated teamwork, dedication, and leadership skills on the field
+        </p>
 
+    </section>
     <footer>
             <section id="contact">
         <h2>Contact</h2>
