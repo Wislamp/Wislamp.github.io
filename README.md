@@ -49,8 +49,7 @@
         </ul>
         <p>Electoral Commission Of Ghana (Dec 7 , 2016)</p>
         <ul>
-            <li>As Registration Officer </li>                
-    </section>
+            <li>As Registration Officer </li></section>
 
     <section id="education">
         <h2>Education</h2>
@@ -101,5 +100,4 @@
 
     </footer>
 
-</body>
-</html>
+
