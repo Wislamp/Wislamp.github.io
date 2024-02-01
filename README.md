@@ -47,6 +47,9 @@
             <li>Demonstrated effective communication and collaboration skills.</li>
             <li>Contributed to team success by meeting sales targets and ensuring client satisfaction.</li>
         </ul>
+        <p>Electoral Commission Of Ghana (Dec 7 , 2016)</p>
+        <ul>
+            <li>As Registration Officer </li>                
     </section>
 
     <section id="education">
