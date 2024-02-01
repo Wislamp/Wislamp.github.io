@@ -72,6 +72,7 @@
         <ul>
             <li>VSCode</li>
             <li>Figma</li>
+            <li>Github</li>
         </ul>
     </section>
     
